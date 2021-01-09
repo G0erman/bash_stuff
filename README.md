@@ -1,11 +1,7 @@
-# bash_stuff
-Basic bash comands.
+Bash Stuff 
 
-# Files
+The make comand was execute at:
+Sat 09 Jan 2021 08:50:56 AM UTC
 
-## guessinggame.sh
-Interactive program to guess how many folders there are in the current directory.
-
-## makefile
-
-## README.md
+Numer of lines in guessinggame.sh: 
+36
